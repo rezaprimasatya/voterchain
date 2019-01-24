@@ -24,7 +24,7 @@ The web app interact with hyperledger through the composer REST JSON server..
 ### 1/ Get the Repo
 
 ```
-git clone https://github.com/html5-ninja/hyperledger-vote-app.git
+git clone hhttps://github.com/rezaprimasatya/voterchain
 ```
 
 ### 2/ Fabric & Composer
